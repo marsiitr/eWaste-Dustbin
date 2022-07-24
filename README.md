@@ -7,8 +7,7 @@ https://word2md.scm.azurewebsites.net/detectors
 The E-Waste Bin is a smart bin which can collect and segregate 5 types
 of waste namely Phones, Headphones, Watches, Mouses and chargers.
 
-![](./images/media/image1.jpeg){width="5.9668503937007875in"
-height="4.214344925634296in"}
+![](./images/media/image1.jpeg)
 
 **Motivation**
 
@@ -89,8 +88,7 @@ A stepper motor is fixed on the centre of the lid along the central axis
 and its rotating part is holding the wooden flap. The height of lid so
 adjusted that it leaves a gap of 1cm between flap and Pi panels.
 
-![](./images/media/image3.jpeg){width="2.8333333333333335in"
-height="2.068041338582677in"}
+![](./images/media/image3.jpeg)
 
 **Electronics Aspect of the Design**
 
@@ -103,8 +101,7 @@ Using the stepper motor along with drivers provide rotations at required
 angles with precision at a faster speed, increasing the accuracy of the
 bin and saving time consumed in motion.
 
-![](./images/media/image4.png){width="2.2826082677165354in"
-height="2.1022944006999125in"}
+![](./images/media/image4.png)
 
 **Arduino Mega**
 
@@ -113,8 +110,7 @@ height="2.1022944006999125in"}
 
 -   Can be used for years as, 4 KB of EEPROM space available.
 
-![](./images/media/image5.jpeg){width="2.7405588363954507in"
-height="1.5724628171478565in"}
+![](./images/media/image5.jpeg)
 
 **Load-cell & HX711**
 
@@ -124,8 +120,7 @@ height="1.5724628171478565in"}
     slight changes in weights making it suitable for lighter electronic
     waste like earphones.
 
-![](./images/media/image6.jpeg){width="4.442029746281714in"
-height="1.6998425196850393in"}
+![](./images/media/image6.jpeg)
 
 **Ultra sonic sensor (HC-SR04)**
 
