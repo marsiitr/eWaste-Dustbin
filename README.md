@@ -6,7 +6,7 @@ The E-Waste Bin is a smart bin which can collect and segregate 5 types
 of waste namely Phones, Headphones, Watches, Mouses and chargers.
 
 
-   <img src="./Images and Videos/Images/Electronics/arduino mega.jpeg" alt="Arduino mega" width="6000" height="6000"/>
+   <img src="./Images and Videos/Images/Mechanical aspect/complete model.jpeg" width="1000" height="2000"/>
 
 ## **Motivation**
 
