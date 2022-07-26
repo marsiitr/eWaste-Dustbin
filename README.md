@@ -1,15 +1,14 @@
-https://word2md.scm.azurewebsites.net/detectors
+# **E-Waste Bin**
 
-**E-Waste Bin**
-
-**Abstract**
+## **Abstract**
 
 The E-Waste Bin is a smart bin which can collect and segregate 5 types
 of waste namely Phones, Headphones, Watches, Mouses and chargers.
 
-![](./images/media/image1.jpeg)
 
-**Motivation**
+   <p align="center"><img src="https://github.com/kai-013/eWaste-Dustbin/blob/kai-013-patch-1/Images%20and%20Videos/Images/Mechanical%20aspect/complete%20model.jpeg" width="600px" height="600px"/></p>
+
+## **Motivation**
 
 Nowadays, we are facing significant issues with E-Waste, they are
 hazardous to the environment if not disposed of properly, and some of
@@ -23,7 +22,7 @@ Also one must gain valuable experience in working with sensors and
 
 **Components**
 
--   Stepper motor & drivers L298n x 2
+-   Stepper motor & drivers L298n x2
 
 -   Load cell & Hx711 x1
 
@@ -49,12 +48,12 @@ Also one must gain valuable experience in working with sensors and
 
 -   Angle brackets x5
 
-**Workflow**
+## **Workflow**
 
-![](./images/media/image2.JPG){width="6.607735126859143in"
-height="3.75in"}
+<p align="center"><img src="https://github.com/kai-013/eWaste-Dustbin/blob/kai-013-patch-1/Images%20and%20Videos/Images/WORKFLOW/Workflow.JPG" width="6000px" height="900px"/></p>
 
-**Mechanical Aspect of the Design**
+
+### **Mechanical Aspect of the Design**
 
 **BIN**
 
@@ -88,9 +87,10 @@ A stepper motor is fixed on the centre of the lid along the central axis
 and its rotating part is holding the wooden flap. The height of lid so
 adjusted that it leaves a gap of 1cm between flap and Pi panels.
 
-![](./images/media/image3.jpeg)
+<p align="center"><img src="https://github.com/kai-013/eWaste-Dustbin/blob/kai-013-patch-1/Images%20and%20Videos/Images/Mechanical%20aspect/upper%20flaps.jpeg" width="400px" height="200px"/></p>
 
-**Electronics Aspect of the Design**
+
+### **Electronics Aspect of the Design**
 
 **Stepper motor**
 
@@ -101,7 +101,7 @@ Using the stepper motor along with drivers provide rotations at required
 angles with precision at a faster speed, increasing the accuracy of the
 bin and saving time consumed in motion.
 
-![](./images/media/image4.png)
+<p align="center"><img src="https://github.com/kai-013/eWaste-Dustbin/blob/kai-013-patch-1/Images%20and%20Videos/Images/actuators/steppermotor_3d.png" width="400px" height="400px"/></p>
 
 **Arduino Mega**
 
@@ -110,7 +110,8 @@ bin and saving time consumed in motion.
 
 -   Can be used for years as, 4 KB of EEPROM space available.
 
-![](./images/media/image5.jpeg)
+<p align="center"><img src="https://github.com/kai-013/eWaste-Dustbin/blob/kai-013-patch-1/Images%20and%20Videos/Images/Electronics/arduino%20mega.jpeg" width="400px" height="400px"/></p>
+
 
 **Load-cell & HX711**
 
@@ -120,7 +121,7 @@ bin and saving time consumed in motion.
     slight changes in weights making it suitable for lighter electronic
     waste like earphones.
 
-![](./images/media/image6.jpeg)
+<p align="center"><img src="https://github.com/kai-013/eWaste-Dustbin/blob/kai-013-patch-1/Images%20and%20Videos/Images/Electronics/loadcell.jpg" width="300px" height="300px"/></p>
 
 **Ultra sonic sensor (HC-SR04)**
 
@@ -139,29 +140,28 @@ bin and saving time consumed in motion.
     train.
 
 **Cost Structure**
-
-  -----------------------------------------------------------------------
-  ***Components***                               ***Cost(INR.)***
-  ---------------------------------------------- ------------------------
-  2x Motor Driver L2898                          240
-
-  2x Stepper Motors                              2050
-
-  1x Arduino Mega                                2200
-
-  12v Battery                                    900
-
-  2x Ultrasonic Sensor                           100
-
-  1x Load Cell                                   520
-
-  1x HX711                                       *150*
-
-  1x Dustbin                                     750
-
-  Total                                          6,910
-  -----------------------------------------------------------------------
-
+ 
+  -----------------------------------------------------------------------           
+ | **Components**                    |  **Quantity**     |     **Cost(INR.)**          | 
+ | :-----------------------:         | :--------------:  |  :---------------------:    |
+ |  Motor Driver L2898               |      2            |            240              |
+ |                                   |                   |                             |
+ |  Stepper Motors                   |      2            |            2050             |
+ |                                   |                   |                             |
+ |  Arduino Mega                     |      1            |            2200             |
+ |                                   |                   |                             |
+ | 12v Battery                       |      1            |            900              |
+ |                                   |                   |                             |
+ | Ultrasonic Sensor                 |      2            |            100              |
+ |                                   |                   |                             |
+ | Load Cell                         |      1            |            520              |
+ |                                   |                   |                             |
+ | HX711                             |      1            |            150              |
+ |                                   |                   |                             |
+ | Dustbin                           |      1            |            750              |
+ |                                   |                   |                             |                                                                                                                  |                   |                             |  
+ |                 **Total**         |                   |             6,910           |
+  
 **Applications**
 
 -   Collects and Segregates the E-Waste.
@@ -194,36 +194,34 @@ bin and saving time consumed in motion.
 
 **Team Members**
 
-1.  Jitesh Bhati
+1.  [Aastha Tembhare](https://github.com/Aastha-tembhare)
 
-2.  Aastha Tembhare
+2.  [Jitesh Bhati](https://github.com/jiteshbhati305)
 
-3.  Shreya Mittal
+3. [Shreya Mittal](https://github.com/ShreyaMittalSM)
 
-4.  Kaivalya
+4.  [Kaivalya](https://github.com/kai-013)
 
 **Mentors**
 
-1.  Abhay Pratap Singh
+1.  [Abhay Pratap Singh](https://github.com/DarthEkLen)
 
-2.  Harikhrishnan P. B.
+2.  [Harikhrishnan P.B.](https://github.com/MurkeyCube)
 
-3.  Sanjeev Krishnan
+3.  [Sanjeev Krishnan](https://github.com/SanjeevKrishnan)
 
 **References**
 
--   <https://youtu.be/sxzoAGf1kOo>
+-   [HX711 module](https://youtu.be/sxzoAGf1kOo)
 
--   <https://github.com/ultralytics/yolov5>
+-   [Ultralytics github](https://github.com/ultralytics/yolov5)
 
--   <https://github.com/heartexlabs/labelImg>
+-   [LabelImg](https://github.com/heartexlabs/labelImg)
 
--   <https://youtu.be/36Bry_57Pcc>
+-   [SolidWorks tutorials](https://youtu.be/36Bry_57Pcc)
 
--   <https://youtu.be/r5Ntr4JcFqI>
+-   [Yolo Drowsiness Detection](https://github.com/nicknochnack/YOLO-Drowsiness-Detection)
 
--   <https://github.com/nicknochnack/YOLO-Drowsiness-Detection>
+-   [Coustom dataset training Yolov5](https://youtu.be/80Q3HIBy7Qg)
 
--   <https://youtu.be/tFNJGim3FXw>
-
--   <https://randomnerdtutorials.com/arduino-load-cell-hx711/>
+-   [Arduino tutorial](https://randomnerdtutorials.com/arduino-load-cell-hx711)
