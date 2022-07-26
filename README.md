@@ -6,7 +6,7 @@ The E-Waste Bin is a smart bin which can collect and segregate 5 types
 of waste namely Phones, Headphones, Watches, Mouses and chargers.
 
 
-   <p align="center"><img src="https://github.com/kai-013/eWaste-Dustbin/blob/kai-013-patch-1/Images%20and%20Videos/Images/Mechanical%20aspect/complete%20model.jpeg" width="500px" height="800px"/></p>
+   <p align="center"><img src="https://github.com/kai-013/eWaste-Dustbin/blob/kai-013-patch-1/Images%20and%20Videos/Images/Mechanical%20aspect/complete%20model.jpeg" width="600px" height="600px"/></p>
 
 ## **Motivation**
 
@@ -121,7 +121,7 @@ bin and saving time consumed in motion.
     slight changes in weights making it suitable for lighter electronic
     waste like earphones.
 
-<p align="right"><img src="https://github.com/kai-013/eWaste-Dustbin/blob/kai-013-patch-1/Images%20and%20Videos/Images/Electronics/loadcell.jpg" width="300px" height="300px"></p><p align="left"><img src="https://github.com/kai-013/eWaste-Dustbin/blob/kai-013-patch-1/Images%20and%20Videos/Images/Electronics/hx711_module.jpg" width="300px" height="300px"/></p>
+<p align="center"><img src="https://github.com/kai-013/eWaste-Dustbin/blob/kai-013-patch-1/Images%20and%20Videos/Images/Electronics/loadcell.jpg" width="300px" height="300px"/></p>
 
 **Ultra sonic sensor (HC-SR04)**
 
