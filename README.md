@@ -6,7 +6,7 @@ The E-Waste Bin is a smart bin which can collect and segregate 5 types
 of waste namely Phones, Headphones, Watches, Mouses and chargers.
 
 
-   <p align="center"><img src="https://github.com/kai-013/eWaste-Dustbin/blob/kai-013-patch-1/Images%20and%20Videos/Images/Mechanical%20aspect/complete%20model.jpeg" width="600px" height="200px"/></p>
+   <p align="center"><img src="https://github.com/kai-013/eWaste-Dustbin/blob/kai-013-patch-1/Images%20and%20Videos/Images/Mechanical%20aspect/complete%20model.jpeg" width="500px" height="800px"/></p>
 
 ## **Motivation**
 
@@ -101,7 +101,7 @@ Using the stepper motor along with drivers provide rotations at required
 angles with precision at a faster speed, increasing the accuracy of the
 bin and saving time consumed in motion.
 
-![](./Images and Videos/Images/actuators/steppermotor_3d.png)
+<p align="center"><img src="https://github.com/kai-013/eWaste-Dustbin/blob/kai-013-patch-1/Images%20and%20Videos/Images/actuators/steppermotor_3d.png" width="400px" height="400px"/></p>
 
 **Arduino Mega**
 
@@ -110,7 +110,8 @@ bin and saving time consumed in motion.
 
 -   Can be used for years as, 4 KB of EEPROM space available.
 
-![](./Images and Videos/Images/Electronics/arduino mega.jpeg)
+<p align="center"><img src="https://github.com/kai-013/eWaste-Dustbin/blob/kai-013-patch-1/Images%20and%20Videos/Images/Electronics/arduino%20mega.jpeg" width="400px" height="400px"/></p>
+
 
 **Load-cell & HX711**
 
@@ -120,7 +121,7 @@ bin and saving time consumed in motion.
     slight changes in weights making it suitable for lighter electronic
     waste like earphones.
 
-![](./Images and Videos/Images/Electronics/loadcell.jpg)
+<p align="right"><img src="https://github.com/kai-013/eWaste-Dustbin/blob/kai-013-patch-1/Images%20and%20Videos/Images/Electronics/loadcell.jpg" width="300px" height="300px"></p><p align="right"><img src="https://github.com/kai-013/eWaste-Dustbin/blob/kai-013-patch-1/Images%20and%20Videos/Images/Electronics/hx711_module.jpg" width="300px" height="300px"/></p>
 
 **Ultra sonic sensor (HC-SR04)**
 
