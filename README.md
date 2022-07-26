@@ -6,7 +6,7 @@ The E-Waste Bin is a smart bin which can collect and segregate 5 types
 of waste namely Phones, Headphones, Watches, Mouses and chargers.
 
 
-   <p align="centre"><img src="./Images and Videos/Images/Mechanical aspect/complete model.jpeg" width="100px" height="200px"/></p>
+   <p align="centre"><img src="https://github.com/kai-013/eWaste-Dustbin/blob/kai-013-patch-1/Images%20and%20Videos/Images/Mechanical%20aspect/complete%20model.jpeg" width="100px" height="200px"/></p>
 
 ## **Motivation**
 
@@ -50,7 +50,8 @@ Also one must gain valuable experience in working with sensors and
 
 ## **Workflow**
 
-![](./Images and Videos/Images/WORKFLOW/Workflow.jpeg)
+<p align="centre"><img src="https://github.com/kai-013/eWaste-Dustbin/blob/kai-013-patch-1/Images%20and%20Videos/Images/WORKFLOW/Workflow.JPG" width="100px" height="200px"/></p>
+
 
 ### **Mechanical Aspect of the Design**
 
@@ -86,7 +87,8 @@ A stepper motor is fixed on the centre of the lid along the central axis
 and its rotating part is holding the wooden flap. The height of lid so
 adjusted that it leaves a gap of 1cm between flap and Pi panels.
 
-![](./Images and Videos/Images/Mechanical aspect/upper flaps.jpeg)
+<p align="centre"><img src="https://github.com/kai-013/eWaste-Dustbin/blob/kai-013-patch-1/Images%20and%20Videos/Images/Mechanical%20aspect/upper%20flaps.jpeg" width="100px" height="200px"/></p>
+
 
 ### **Electronics Aspect of the Design**
 
