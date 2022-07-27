@@ -53,7 +53,7 @@ Also one must gain valuable experience in working with sensors and
 <p align="center"><img src="https://github.com/kai-013/eWaste-Dustbin/blob/kai-013-patch-1/Images%20and%20Videos/Images/WORKFLOW/Workflow.JPG" width="6000px" height="900px"/></p>
 
 
-### **Mechanical Aspect of the Design**
+## **Mechanical Aspect of the Design**
 
 **BIN**
 
@@ -90,7 +90,7 @@ adjusted that it leaves a gap of 1cm between flap and Pi panels.
 <p align="center"><img src="https://github.com/kai-013/eWaste-Dustbin/blob/kai-013-patch-1/Images%20and%20Videos/Images/Mechanical%20aspect/upper%20flaps.jpeg" width="400px" height="200px"/></p>
 
 
-### **Electronics Aspect of the Design**
+## **Electronics Aspect of the Design**
 
 **Stepper motor**
 
@@ -162,7 +162,7 @@ bin and saving time consumed in motion.
  |                                   |                   |                             |                                                                                                                  |                   |                             |  
  |                 **Total**         |                   |             6,910           |
   
-**Applications**
+## **Applications**
 
 -   Collects and Segregates the E-Waste.
 
@@ -170,7 +170,7 @@ bin and saving time consumed in motion.
 
 -   Can be applied with a reward/royalty point-based system.
 
-**Limitations**
+## **Limitations**
 
 -   Can only able to collect & separate only a few specific wastes like
     chargers, Mouse, smartphones etc.
@@ -183,7 +183,7 @@ bin and saving time consumed in motion.
 -   It's hard to empty the bin, one needs to completely remove the upper
     portion for doing.
 
-> **Future Improvements**
+> ## **Future Improvements**
 
 -   We can use Rasberry pi to carry out image processing and object
     detection and can add some more sensors to carry out segregation on
@@ -192,20 +192,20 @@ bin and saving time consumed in motion.
 -   Can be applied with an online reward-based mechanism to make it more
     appealing.
 
-**Team Members**
+## **Team Members**
 
 1.  [Aastha Tembhare](https://github.com/Aastha-tembhare)
 2.  [Jitesh Bhati](https://github.com/jiteshbhati305)
 3. [Shreya Mittal](https://github.com/ShreyaMittalSM)
 4.  [Kaivalya](https://github.com/kai-013)
 
-**Mentors**
+## **Mentors**
 
 1.  [Abhay Pratap Singh](https://github.com/DarthEkLen)
 2.  [Harikhrishnan P.B.](https://github.com/MurkeyCube)
 3.  [Sanjeev Krishnan](https://github.com/SanjeevKrishnan)
 
-**References**
+## **References**
 
 -   [HX711 module](https://youtu.be/sxzoAGf1kOo)
 -   [Ultralytics github](https://github.com/ultralytics/yolov5)
