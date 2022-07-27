@@ -195,33 +195,22 @@ bin and saving time consumed in motion.
 **Team Members**
 
 1.  [Aastha Tembhare](https://github.com/Aastha-tembhare)
-
 2.  [Jitesh Bhati](https://github.com/jiteshbhati305)
-
 3. [Shreya Mittal](https://github.com/ShreyaMittalSM)
-
 4.  [Kaivalya](https://github.com/kai-013)
 
 **Mentors**
 
 1.  [Abhay Pratap Singh](https://github.com/DarthEkLen)
-
 2.  [Harikhrishnan P.B.](https://github.com/MurkeyCube)
-
 3.  [Sanjeev Krishnan](https://github.com/SanjeevKrishnan)
 
 **References**
 
 -   [HX711 module](https://youtu.be/sxzoAGf1kOo)
-
 -   [Ultralytics github](https://github.com/ultralytics/yolov5)
-
 -   [LabelImg](https://github.com/heartexlabs/labelImg)
-
 -   [SolidWorks tutorials](https://youtu.be/36Bry_57Pcc)
-
 -   [Yolo Drowsiness Detection](https://github.com/nicknochnack/YOLO-Drowsiness-Detection)
-
 -   [Coustom dataset training Yolov5](https://youtu.be/80Q3HIBy7Qg)
-
 -   [Arduino tutorial](https://randomnerdtutorials.com/arduino-load-cell-hx711)
