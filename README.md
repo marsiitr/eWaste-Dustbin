@@ -23,29 +23,17 @@ Also one must gain valuable experience in working with sensors and
 **Components**
 
 -   Stepper motor & drivers L298n x2
-
 -   Load cell & Hx711 x1
-
 -   Arduino mega x1
-
 -   Ultrasonic sensor x2
-
 -   Dustbin x1
-
 -   Webcam x1
-
 -   Flywheel frame x1
-
 -   Pi-shaped panel x2
-
 -   Rectangular flap x1
-
 -   Circular disk x1
-
 -   Rectangular cardboard x5
-
 -   Aluminium rods x5
-
 -   Angle brackets x5
 
 ## **Workflow**
@@ -107,7 +95,6 @@ bin and saving time consumed in motion.
 
 -   It has a large number of pins, hence all the sensors and motors can
     be connected easily.
-
 -   Can be used for years as, 4 KB of EEPROM space available.
 
 <p align="center"><img src="https://github.com/kai-013/eWaste-Dustbin/blob/kai-013-patch-1/Images%20and%20Videos/Images/Electronics/arduino%20mega.jpeg" width="400px" height="400px"/></p>
@@ -116,7 +103,6 @@ bin and saving time consumed in motion.
 **Load-cell & HX711**
 
 -   We used 1 Kg load cell with HX711 ADC chip.
-
 -   The strain gauge provides it a high precision, it can measure very
     slight changes in weights making it suitable for lighter electronic
     waste like earphones.
@@ -126,7 +112,6 @@ bin and saving time consumed in motion.
 **Ultra sonic sensor (HC-SR04)**
 
 -   It can calculate accurate position of an object across two meters.
-
 -   We have used it to control when to energise the Load cell and HX711
     which increases their life.
 
@@ -134,7 +119,6 @@ bin and saving time consumed in motion.
 
 -   Object detection is done by using Ultralytics Model based on YOLOv5
     and Pytorch and is trained over the custom dataset.
-
 -   YOLOv5 is one of the most high-performing object detectors out
     there. It is fast, has high accuracy and is incredibly easy to
     train.
@@ -165,21 +149,16 @@ bin and saving time consumed in motion.
 ## **Applications**
 
 -   Collects and Segregates the E-Waste.
-
 -   Increases the recyclability of E-Wastes.
-
 -   Can be applied with a reward/royalty point-based system.
 
 ## **Limitations**
 
 -   Can only able to collect & separate only a few specific wastes like
-    chargers, Mouse, smartphones etc.
-
+    chargers, Mouse, smartphones etc.   
 -   Object detection is carried out on a laptop.
-
 -   If modified for segregation in more categories then, it will consume
     a large space.
-
 -   It's hard to empty the bin, one needs to completely remove the upper
     portion for doing.
 
@@ -188,7 +167,6 @@ bin and saving time consumed in motion.
 -   We can use Rasberry pi to carry out image processing and object
     detection and can add some more sensors to carry out segregation on
     basis of recyclability making it more practical.
-
 -   Can be applied with an online reward-based mechanism to make it more
     appealing.
 
