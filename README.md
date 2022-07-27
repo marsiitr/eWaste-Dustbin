@@ -87,7 +87,7 @@ A stepper motor is fixed on the centre of the lid along the central axis
 and its rotating part is holding the wooden flap. The height of lid so
 adjusted that it leaves a gap of 1cm between flap and Pi panels.
 
-<p align="center"><img src="https://github.com/kai-013/eWaste-Dustbin/blob/kai-013-patch-1/Images%20and%20Videos/Images/Mechanical%20aspect/upper%20flaps.jpeg" width="400px" height="200px"/></p>
+<p align="center"><img src="https://github.com/kai-013/eWaste-Dustbin/blob/kai-013-patch-1/Images%20and%20Videos/Images/Mechanical%20aspect/upper%20flaps.jpeg" width="400px" height="400px"/></p>
 
 
 ## **Electronics Aspect of the Design**
@@ -121,7 +121,7 @@ bin and saving time consumed in motion.
     slight changes in weights making it suitable for lighter electronic
     waste like earphones.
 
-<p align="center"><img src="https://github.com/kai-013/eWaste-Dustbin/blob/kai-013-patch-1/Images%20and%20Videos/Images/Electronics/loadcell.jpg" width="300px" height="300px"/></p>
+<p align="center"><img src="https://github.com/kai-013/eWaste-Dustbin/blob/kai-013-patch-1/Images%20and%20Videos/Images/Electronics/loadcell.jpg" width="400px" height="400px"/></p>
 
 **Ultra sonic sensor (HC-SR04)**
 
