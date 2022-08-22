@@ -1,3 +1,5 @@
+<div style="text-align: right">
+   
 # **E-Waste Bin**
 
 ## **Abstract**
@@ -143,7 +145,7 @@ bin and saving time consumed in motion.
  | HX711                             |      1            |            150              |
  |                                   |                   |                             |
  | Dustbin                           |      1            |            750              |
- |                                   |                   |                             |                                                                                                                  |                   |                             |  
+ |                                   |                   |                             |                                                                                                                    |                   |                             |  
  |                 **Total**         |                   |             6,910           |
   
 ## **Applications**
@@ -192,3 +194,6 @@ bin and saving time consumed in motion.
 -   [Yolo Drowsiness Detection](https://github.com/nicknochnack/YOLO-Drowsiness-Detection)
 -   [Coustom dataset training Yolov5](https://youtu.be/80Q3HIBy7Qg)
 -   [Arduino tutorial](https://randomnerdtutorials.com/arduino-load-cell-hx711)
+
+ 
+</div>
