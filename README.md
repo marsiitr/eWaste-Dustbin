@@ -176,8 +176,8 @@ bin and saving time consumed in motion.
 
 1.  [Aastha Tembhare](https://github.com/Aastha-tembhare)
 2.  [Jitesh Bhati](https://github.com/jiteshbhati305)
-3. [Shreya Mittal](https://github.com/ShreyaMittalSM)
-4.  [Kaivalya](https://github.com/kai-013)
+3.  [Kaivalya](https://github.com/kai-013) 
+4.  [Shreya Mittal](https://github.com/ShreyaMittalSM)
 
 ## **Mentors**
 
